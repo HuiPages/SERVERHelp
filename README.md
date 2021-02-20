@@ -33,3 +33,5 @@
 HuiPages（Github）/（Twitter） 
 
 Mog*****sion（Facebook）
+
+**[返回主页](https://huipages.github.io/MinecraftSV/)**
